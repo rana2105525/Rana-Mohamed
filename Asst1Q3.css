@@ -1,0 +1,21 @@
+.leftnav
+{
+    background-color: black;
+    overflow: hidden;
+    width:225px;
+    height: 610px;
+    padding: 20px 0;
+    text-align: center;
+}
+.leftnav a
+{
+display: block;
+color:white;
+text-decoration: none;
+font-size: 25px;
+padding :15px 0;
+}
+.leftnav a:hover
+{
+    color:grey;
+}
