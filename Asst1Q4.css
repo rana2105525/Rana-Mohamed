@@ -1,0 +1,27 @@
+table{
+    border: 1px;
+    border-style: solid;
+    border-color:dodgerblue;
+}
+    
+
+th{
+    color:white;
+    background-color:dodgerblue;
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
+th,tr,td{
+    border : 0.5px;
+    border-style:solid;
+    border-color:grey;
+}
+th:hover
+{
+    color :black;
+   background-color:white;
+}
+tr:hover{
+    background-color: darksalmon;
+}
